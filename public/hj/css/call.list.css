@@ -1,0 +1,9 @@
+.dataTables_length, .dataTables_info, .dataTables_paginate, .paging_simple_numbers{
+    display: none;
+}
+#please-wait{
+    color: #eee;
+}
+#loader{
+    margin-left: 45%;
+}
